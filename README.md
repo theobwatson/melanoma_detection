@@ -1,7 +1,7 @@
-# melanoma_detection
+# Melanoma Classification using EfficientNetV2 / MobileNetV3
 
 This project trains deep learning models to detect melanoma from dermoscopic images.
-It supports multiple backbones (EfficientNetV2B0, EfficientNetV2B1, MobileNetV3Small) and uses transfer learning, fine-tuning, and threshold optimization for high recall.
+It supports multiple backbones (EfficientNetV2B0 and MobileNetV3Small) and uses transfer learning, fine-tuning, and threshold optimization for high recall.
 
 ## To Train a Model
 
